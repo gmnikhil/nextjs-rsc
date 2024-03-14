@@ -1,4 +1,4 @@
-import { LoadingPostWithCommentsSkeleton } from "../../../components/post-with-comments";
+import { LoadingPostWithCommentsSkeleton } from "./loading";
 import { Suspense, lazy } from "react";
 
 import { useParams } from "react-router-dom";
