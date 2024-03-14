@@ -1,4 +1,3 @@
-"use client";
 import { PostType } from "../services/post-service";
 import { Link } from "react-router-dom";
 
